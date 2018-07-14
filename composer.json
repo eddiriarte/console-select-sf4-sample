@@ -1,0 +1,21 @@
+{
+    "name": "eiriarte/console-select-with-symfony4",
+    "description": "A sample project to test reliability of console-select with symfony.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Iriarte",
+            "email": "eddiriarte@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "^4.1",
+        "eddiriarte/console-select": "dev-feature/sf-console-4_support"
+    }
+}
