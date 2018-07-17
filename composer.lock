@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ea98d14dea96e3a3a69334133a64423",
+    "content-hash": "e6fc3653453ee0d14c5e580f523bdf21",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -75,16 +75,16 @@
         },
         {
             "name": "eddiriarte/console-select",
-            "version": "dev-feature/sf-console-4_support",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eddiriarte/console-select.git",
-                "reference": "2ebba4cce7aab4eab3e81697113f61a1017a5eaf"
+                "reference": "6d30d91224c719ab510b1a42aaa478e01d2dad6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eddiriarte/console-select/zipball/2ebba4cce7aab4eab3e81697113f61a1017a5eaf",
-                "reference": "2ebba4cce7aab4eab3e81697113f61a1017a5eaf",
+                "url": "https://api.github.com/repos/eddiriarte/console-select/zipball/6d30d91224c719ab510b1a42aaa478e01d2dad6f",
+                "reference": "6d30d91224c719ab510b1a42aaa478e01d2dad6f",
                 "shasum": ""
             },
             "require": {
@@ -122,7 +122,7 @@
                 "select",
                 "symfony"
             ],
-            "time": "2018-07-14T18:55:48+00:00"
+            "time": "2018-07-17T05:15:07+00:00"
         },
         {
             "name": "illuminate/contracts",
@@ -578,9 +578,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "eddiriarte/console-select": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
