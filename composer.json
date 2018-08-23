@@ -16,6 +16,6 @@
     },
     "require": {
         "symfony/console": "^4.1",
-        "eddiriarte/console-select": "2.0.1"
+        "eddiriarte/console-select": "^2.0.0"
     }
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e6fc3653453ee0d14c5e580f523bdf21",
+    "content-hash": "9ba51614cf8461567e8a549a1928bb7d",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -75,16 +75,16 @@
         },
         {
             "name": "eddiriarte/console-select",
-            "version": "2.0.1",
+            "version": "2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/eddiriarte/console-select.git",
-                "reference": "6d30d91224c719ab510b1a42aaa478e01d2dad6f"
+                "reference": "76a6818c128571dfed8f0546a6ac5dd15e64f1ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/eddiriarte/console-select/zipball/6d30d91224c719ab510b1a42aaa478e01d2dad6f",
-                "reference": "6d30d91224c719ab510b1a42aaa478e01d2dad6f",
+                "url": "https://api.github.com/repos/eddiriarte/console-select/zipball/76a6818c128571dfed8f0546a6ac5dd15e64f1ad",
+                "reference": "76a6818c128571dfed8f0546a6ac5dd15e64f1ad",
                 "shasum": ""
             },
             "require": {
@@ -122,7 +122,7 @@
                 "select",
                 "symfony"
             ],
-            "time": "2018-07-17T05:15:07+00:00"
+            "time": "2018-08-23T19:58:06+00:00"
         },
         {
             "name": "illuminate/contracts",
